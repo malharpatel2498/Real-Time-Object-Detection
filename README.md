@@ -1,4 +1,4 @@
-# Real-Time-Object-tracking
+# Real-Time-Object-detection
 
 To run the object detection code :
 
